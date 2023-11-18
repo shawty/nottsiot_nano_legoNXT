@@ -1,6 +1,6 @@
 # .NET Notts IoT
 ## nanoFramework and LegoNXT hacking
-Code and materials to accompany the .NET nanoFramework presentation by myself and [Jose Simoes](https://github.com/josesimoes)https://github.com/josesimoes on 16th Nov 2023
+Code and materials to accompany the .NET nanoFramework presentation by myself and [Jose Simoes](https://github.com/josesimoes) on 16th Nov 2023
 
 -----
 

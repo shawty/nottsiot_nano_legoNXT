@@ -12,5 +12,8 @@ I'll also add the code I was going through, and a copy of my slides.
 
 That's all for a beginning, but I will add anything I can find extra as time goes on, and hopefully Jose will too.
 
+For those that never got to watch the session live, it can be watched here:
+https://www.youtube.com/watch?v=8KSasxCHyLI
+
 Shawty
 
